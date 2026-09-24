@@ -1,4 +1,5 @@
 - url: https://zoom.us/client/latest/ZoomInstallerIT.pkg
   name: Zoooooom
+  resolution: Zoooooooooom.
   post_install_script:
     path: ../scripts/zoom-config.sh
