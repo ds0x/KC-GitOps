@@ -4,3 +4,7 @@
   criteria:
     vital: end_user_idp_department
     value: Engineering
+- name: C-Suite
+  description: C-Suities
+  label_membership_type: manual
+  hosts:
