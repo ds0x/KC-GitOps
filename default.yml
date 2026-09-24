@@ -21,7 +21,7 @@ org_settings:
     # Read more:
     #   • https://fleetdm.com/docs/configuration/yaml-files#org-info
     ###########################################################
-    org_name: KC Masterpiece
+    org_name: KC GitOps
 
   server_settings:
     ###########################################################
